@@ -1,0 +1,10 @@
+*.suo
+*.pdb
+*.exe
+OutputsCollector/obj/
+OutputsCollector/bin/Debug/PredictedObserved.vshost.exe.config
+OutputsCollector/bin/
+*.user
+APSIM.Validation.Portal/obj/
+packages/
+APSIM.Validation.Portal/bin/
